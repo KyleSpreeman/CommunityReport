@@ -158,5 +158,5 @@ class DetailedConcern extends React.Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyCwceRI1qGErNEWxR2PHx2sz7CIcLR_1lA'
+    apiKey: ''
 })(DetailedConcern);
